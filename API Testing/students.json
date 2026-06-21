@@ -1,0 +1,73 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "John",
+      "courses": [
+        "Java",
+        "Selenium"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Kim",
+      "courses": [
+        "Python",
+        "Maven"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Jack",
+      "courses": [
+        "C",
+        "Gradle"
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Jack",
+      "number": 123456
+    },
+    {
+      "id": "5",
+      "name": "Jack",
+      "number": 123456
+    },
+    {
+      "id": "5",
+      "name": "Jack",
+      "number": 123456
+    },
+    {
+      "id": "5",
+      "name": "Jack",
+      "number": 123456
+    },
+    {
+      "id": "5",
+      "name": "Jack",
+      "number": 123456
+    },
+    {
+      "id": "5",
+      "name": "Jack",
+      "number": 123456
+    },
+    {
+      "id": "5",
+      "name": "Jack",
+      "number": 123456
+    },
+    {
+      "id": "5",
+      "name": "Jack",
+      "number": 123456
+    },
+    {
+      "id": "5",
+      "name": "Jack",
+      "number": 123456
+    }
+  ]
+}
